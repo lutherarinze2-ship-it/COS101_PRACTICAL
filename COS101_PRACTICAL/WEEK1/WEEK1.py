@@ -1,0 +1,7 @@
+print ("Hello world!")
+print ("Welcome to COS101 Practical")
+print ("This is my first saved python program")
+print (22*4)
+print (8/2)
+print (10+2)
+print (6-2)
